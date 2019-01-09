@@ -1,6 +1,11 @@
+# Babble Setup
+
+## Based on:
 YouTube: Getting Started with Babel
 https://www.youtube.com/watch?v=ahh65GQz74g
 
-npm install
+To build:
+`npm install`
 
-npm watch
+To run:
+`npm watch`
